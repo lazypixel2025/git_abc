@@ -1,5 +1,5 @@
 line1 aaaaaaaaaaaaaaaaaaaa
 line2 bbbbbbbbbbbbbbbbb
-line3 ccccccccccccccccccccc
+line3 
 line4 99999999999
 line5 8888888
