@@ -1,6 +1,6 @@
 line1 aaaaaaaaaaaaaaaaaaaa
 line2 bbbbbbbbbbbbbbbbb
-line3 
+line3 ABCDEFG
 line4 99999999999
 line5 8888888
 line6 aaaa
